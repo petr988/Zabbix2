@@ -22,12 +22,26 @@
 
 ---
 
-Задание 1-3
+## Задание 1
+
+<img width="926" height="478" alt="image" src="https://github.com/user-attachments/assets/298bc3ad-aaf3-483f-b336-14b08047b1f6" />
+
+<img width="1281" height="549" alt="image" src="https://github.com/user-attachments/assets/d9dc2507-79af-40d6-8121-5a73aad510d2" />
+
+## Задание 3
+
+
+
+
 
 
 <img width="1628" height="602" alt="image" src="https://github.com/user-attachments/assets/5e167e22-6538-4cfc-8ac1-146a0f0fdd7f" />
 
 ```
+
+## Задание 4
+
+
 
 `При необходимости прикрепитe сюда скриншоты
 ![Название скриншота](ссылка на скриншот)`
