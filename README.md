@@ -42,6 +42,7 @@
 
 ## Задание 4
 
+<img width="1378" height="704" alt="image" src="https://github.com/user-attachments/assets/8732820b-e311-4a24-a49d-c65189b13b31" />
 
 
 `При необходимости прикрепитe сюда скриншоты
