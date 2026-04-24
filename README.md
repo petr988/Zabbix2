@@ -38,11 +38,12 @@
 
 <img width="1628" height="602" alt="image" src="https://github.com/user-attachments/assets/5e167e22-6538-4cfc-8ac1-146a0f0fdd7f" />
 
-```
+
 
 ## Задание 4
 
-<img width="1378" height="704" alt="image" src="https://github.com/user-attachments/assets/8732820b-e311-4a24-a49d-c65189b13b31" />
+<img width="1378" height="704" alt="image" src="https://github.com/user-attachments/assets/771b4022-eb5d-4937-a57b-39543fc3a266" />
+
 
 
 `При необходимости прикрепитe сюда скриншоты
